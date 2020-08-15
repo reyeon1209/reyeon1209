@@ -13,10 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![reyeon1209's github stats](https://github-readme-stats.vercel.app/api?username=reyeon1209&count_private=true&show_icons=true&theme=buefy&hide_border=true&include_all_commits=1)](https://github.com/reyeon1209/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=reyeon1209&count_private=true&show_icons=true&theme=buefy&hide_border=true&include_all_commits=1" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyeon1209&layout=compact&hide_border=true&title_color=7957d5&icon_color=ff3860&text_color=363636&bg_color=ffffff" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reyeon1209&layout=compact&hide_border=true&title_color=7957d5&icon_color=ff3860&text_color=363636&bg_color=ffffff)](https://github.com/reyeon1209/github-readme-stats)
