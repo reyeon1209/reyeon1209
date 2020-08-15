@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **reyeon1209/reyeon1209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![reyeon1209's github stats](https://github-readme-stats.vercel.app/api?username=reyeon1209&count_private=true&show_icons=true&theme=buefy&include_all_commits=1)](https://github.com/reyeon1209/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reyeon1209&layout=compact)](https://github.com/reyeon1209/github-readme-stats)
