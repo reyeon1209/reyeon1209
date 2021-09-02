@@ -11,6 +11,7 @@ I'm Jaeyeon Yang, a growing developer. 🌱 <br>
 <h3 align="center"> 🍒 Interest 🍒 </h3>
 <p align="center">   
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Svelte" src="https://img.shields.io/badge/Svelte-FF633E?style=flat-square&logo=svelte&logoColor=white" /> 
   <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-61D4FC08DAFB?style=flat-square&logo=Vue.js&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
