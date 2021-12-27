@@ -21,11 +21,6 @@ I'm Jaeyeon Yang, a growing developer. 🌱 <br>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-3498db?style=flat-square&logo=kubernetes&logoColor=white" />
   <br>
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="github" src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=white" />
-  <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack&logoColor=white" />
-  <img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white" />
-  <br>
   <img alt="NLP" src="https://img.shields.io/badge/-NLP-red"?style=flat-square" />
   <img alt="Statistics" src="https://img.shields.io/badge/-Statistics-grey"?style=flat-square />
 </p>
